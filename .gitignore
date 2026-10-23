@@ -1,0 +1,9 @@
+results/
+
+.DS_Store
+.vscode/
+.idea/
+
+*.exe
+*.test
+*.out
